@@ -1,32 +1,4 @@
-# decision_tree.py
-# ---------
-# Licensing Information:  You are free to use or extend these projects for
-# personal and educational purposes provided that (1) you do not distribute
-# or publish solutions, (2) you retain this notice, and (3) you provide clear
-# attribution to UT Dallas, including a link to http://cs.utdallas.edu.
-#
-# This file is part of Programming Assignment 1 for CS6375: Machine Learning.
-# Gautam Kunapuli (gautam.kunapuli@utdallas.edu)
-# Sriraam Natarajan (sriraam.natarajan@utdallas.edu),
-#
-#
-# INSTRUCTIONS:
-# ------------
-# 1. This file contains a skeleton for implementing the ID3 algorithm for
-# Decision Trees. Insert your code into the various functions that have the
-# comment "INSERT YOUR CODE HERE".
-#
-# 2. Do NOT modify the classes or functions that have the comment "DO NOT
-# MODIFY THIS FUNCTION".
-#
-# 3. Do not modify the function headers for ANY of the functions.
-#
-# 4. You may add any other helper functions you feel you may need to print,
-# visualize, test, or save the data and results. However, you MAY NOT utilize
-# the package scikit-learn OR ANY OTHER machine learning package in THIS file.
 
-
-###### Solution by Bhagirath Athresh Karanam and Adharsh Viswanath
 import numpy as np
 import math
 import matplotlib.pyplot as plt
